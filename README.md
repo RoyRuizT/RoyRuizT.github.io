@@ -1,3 +1,3 @@
 # RoyRuizT.github.io
-##Project title
-###Adv. GIS
+## Project title
+### Adv. GIS
