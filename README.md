@@ -1,5 +1,4 @@
-# GIS Projects
-## Watershed Delineation Script
+# Watershed Delineation Function
 Link to GitHub Repository: [invalid URL removed]
 
 **Description**
