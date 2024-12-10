@@ -1,6 +1,6 @@
 # GIS Projects
 ## Watershed Delineation Script
-Link to GitHub Repository:[Watershed_Delineation](https://github.com/RoyRuizT/RoyRuizT.github.io/tree/Watershed_Delineation)
+Link to GitHub Repository: [Watershed_Delineation](https://github.com/RoyRuizT/RoyRuizT.github.io/tree/Watershed_Delineation)
 
 **Description**
 
