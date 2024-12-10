@@ -4,7 +4,7 @@ Link to GitHub Repository: [invalid URL removed]
 
 **Description**
 
-This Python function provides a streamlined approach to delineate watersheds from a single Digital Elevation Model (DEM) raster file. Using libraries like GeoPandas, rasterio, scikit-image, scipy, os and NumPy to ensure an open source approach.
+This Python function provides a streamlined approach to delineate watersheds from a single Digital Elevation Model (DEM) raster file. Using libraries like GeoPandas, Rasterio, Scikit-Image, SciPy, OS and NumPy to ensure an open source approach.
 
 **Key Features**
 - Simplified Workflow: Requires only a DEM raster file as input.
@@ -22,7 +22,7 @@ This Python function provides a streamlined approach to delineate watersheds fro
 
 **Usage**
 - Install Dependencies: Install required Python libraries.
-- Run the function:
+- Function: delineate_watersheds(dem_file, percentile=5)
   1. Arguments:
      - dem_file (str): Path to the DEM file (the path must be raw string)
      - (Optional) percentile (int): The value of the percentile for the stream threshold. Default = 5 (Meaning the 5% lower values are going to be considered as streams)    
@@ -44,6 +44,8 @@ This Python function provides a streamlined approach to delineate watersheds fro
 **Example Output**
 
 ![Image created with input DEM and output shapefile](https://github.com/user-attachments/assets/8fff706a-b4ef-4af5-a56b-9644936c8123)
+
+*Image created with input DEM and output shapefile*
 
 
 
