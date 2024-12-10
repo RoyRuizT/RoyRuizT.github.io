@@ -33,14 +33,14 @@ This Python function provides a streamlined approach to delineate watersheds fro
       
 **Example Input**
 
-```import geopandas as gpd \\n
-import rasterio as rio \\n
-import skimage as ski \\n
-import scipy as sp \\n
-import numpy as np \\n
-import os \\n
+````import geopandas as gpd  
+import rasterio as rio  
+import skimage as ski  
+import scipy as sp  
+import numpy as np  
+import os  
 WS = delineate_watersheds(r'C:\Users\rrztscno\Downloads\7950_3050.tif')
-```
+````
 
 **Example Output**
 
