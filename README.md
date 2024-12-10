@@ -33,7 +33,7 @@ This Python function provides a streamlined approach to delineate watersheds fro
       
 **Example Input**
 
-```import geopandas as gpd \br
+```import geopandas as gpd /br
 import rasterio as rio \br
 import skimage as ski \br
 import scipy as sp \br
