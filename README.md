@@ -32,7 +32,8 @@ This Python function provides a streamlined approach to delineate watersheds fro
         - Shapefile with the watersheds' polygons in the directory where the DEM file is.
       
 **Example Input**
-```import geopandas as gpd
+
+```import geopandas as gpd \br
 import rasterio as rio
 import skimage as ski
 import scipy as sp
