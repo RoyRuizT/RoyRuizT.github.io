@@ -1,6 +1,7 @@
 # Watershed Delineation Function
 
 **Description**
+
 Delineates watersheds from a Digital Elevation Model (DEM).
 
     Arguments:
