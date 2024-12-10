@@ -4,8 +4,8 @@
 Delineates watersheds from a Digital Elevation Model (DEM).
 
 **Arguments:**
-- dem_file (str): Path to the DEM file (the path must be raw string).
-- percentile (int): The value of the percentile for the stream threshold. Default = 5 (Meaning the 5% lower values are going to be considered as streams)
+- *dem_file* (str): Path to the DEM file (the path must be raw string).
+- *percentile* (int): The value of the percentile for the stream threshold. Default = 5 (Meaning the 5% lower values are going to be considered as streams)
 
 **Returns:**
 - geopandas GeoDataFrame containing the delineated watersheds.
